@@ -1,0 +1,29 @@
+.vertical-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+.logo {
+    width: 170px;
+    height: 80px;
+}
+
+.alignQr {
+  padding-left: 550px;
+  padding-top: 190px;
+}
+
+.downloadBtn{
+  padding-left: 690px;
+  position: absolute;
+  padding-top: 15px;
+}
+
+.help-text{
+  padding-left: 500px;
+  position: absolute;
+  padding-bottom: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

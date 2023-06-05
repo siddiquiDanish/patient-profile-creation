@@ -22,7 +22,10 @@
     "bootstrap": "^5.3.0",
     "bootstrap-icons": "^1.10.5",
     "html2canvas": "^1.4.1",
+    "jimp": "^0.22.8",
+    "jsqr": "^1.4.0",
     "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
