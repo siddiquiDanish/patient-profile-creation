@@ -19,7 +19,7 @@ export class QrCodeGeneratorComponent {
     this.qrCodeForm = new FormGroup({
       firstName: new FormControl(),
       lastName:  new FormControl(),
-      gender: new FormControl(),
+      gender: new FormControl(""),
       dob:  new FormControl(),
       address:  new FormControl(),
       city: new FormControl(),

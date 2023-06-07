@@ -27,3 +27,14 @@
   padding-bottom: 5px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.generateBtn{
+  padding-left: 220px;
+  position: absolute;
+  padding-top: 15px;
+}
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #345c98;
+}
