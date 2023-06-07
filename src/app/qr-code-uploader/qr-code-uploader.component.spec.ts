@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { QrCodeUploaderComponent } from './qr-code-uploader.component';
+import { QRCodeUploaderComponent } from './qr-code-uploader.component';
 
 describe('QrCodeUploaderComponent', () => {
-  let component: QrCodeUploaderComponent;
-  let fixture: ComponentFixture<QrCodeUploaderComponent>;
+  let component: QRCodeUploaderComponent;
+  let fixture: ComponentFixture<QRCodeUploaderComponent>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [QrCodeUploaderComponent]
+      declarations: [QRCodeUploaderComponent]
     });
-    fixture = TestBed.createComponent(QrCodeUploaderComponent);
+    fixture = TestBed.createComponent(QRCodeUploaderComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

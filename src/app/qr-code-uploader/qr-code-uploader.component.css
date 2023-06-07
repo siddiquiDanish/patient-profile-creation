@@ -1,0 +1,17 @@
+.logo {
+    width: 170px;
+    height: 80px;
+}
+
+video {
+    width: 20%; /* Set the width of the video element */
+    height: auto; /* Allow the height to adjust proportionally */
+    border: 1px solid #31a205; /* Add a border around the video */
+    border-radius: 4px; /* Add border radius for a rounded look */
+    display: block; /* Make sure the video is displayed as a block element */
+    margin: 0 auto; /* Center the video horizontally within its container */
+  }
+
+  .downloadBtn{
+    margin-left: 700px;
+  }
